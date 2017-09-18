@@ -1,0 +1,29 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #eeeee0;
+	font-size: 62.5%;
+}
+
+header,
+main,
+footer {
+	background-color: #ffa07a;
+	font-size: 1.3em;
+}
+
+footer {
+	text-align: center;
+	padding: 2em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
